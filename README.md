@@ -1,2 +1,3 @@
-# wwang184.github.io
-Personal site powered by Github Pages.
+# My Blog
+
+[Personal website powered by Jekyll and Github Pages.](wwang184.github.io)
